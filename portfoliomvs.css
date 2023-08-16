@@ -1,0 +1,265 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.navbar-image {
+    width: 150px;
+    height: 150px;
+    padding: 5px;
+    background-color: #4b5069;
+    border-radius: 50px;
+    height: 150px;
+    width: 150px;
+    margin-top: 10px;
+    margin-left: 15px;
+    margin-right: 15;
+    margin-bottom: 10px;
+    overflow: auto;
+}
+
+#navItem1 {
+    color: black;
+    font-family: "Roboto";
+}
+
+#navItem2 {
+    color: black;
+    font-family: "Roboto";
+}
+
+#navItem3 {
+    color: black;
+    font-family: "Roboto";
+}
+
+#navItem4 {
+    color: black;
+    font-family: "Roboto";
+}
+
+.background {
+    background-color: #323f4b;
+    overflow: auto;
+}
+
+.title {
+    color: #98FB98;
+    font-size: 25px;
+    font-family: "Roboto";
+    font-weight: bold;
+
+}
+
+.head {
+    color: white;
+    margin-bottom: 15px;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 40px;
+    font-size: 20px;
+}
+
+.head11 {
+    color: #F08080;
+    margin-bottom: 15px;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 40px;
+    font-size: 20px;
+}
+
+.para2 {
+    color: #ffffff;
+    font-size: 20px;
+    font-family: "Roboto";
+    font-weight: 500;
+    margin-top: 20px;
+}
+
+.bac2 {
+    background-color: #1f2933;
+    width: 100%;
+}
+
+.boc {
+    background-color: #323f4b;
+    padding: 15px;
+
+    text-align: center;
+    border-radius: 12px;
+    margin-bottom: 25px;
+
+}
+
+.img {
+    width: 100%;
+}
+
+
+
+
+.projectcard {
+    background-color: #3e4c59;
+}
+
+.projectcard2 {
+    background-color: #323f4b;
+    border-radius: 15px;
+}
+
+.projectpara {
+    color: #98FB98;
+    font-size: 35px;
+    font-weight: 600;
+    font-family: "Roboto";
+
+}
+
+.projecthead {
+    color: #F08080;
+    font-size: 35px;
+    font-weight: bold;
+    font-family: "Roboto";
+}
+
+.projectp2 {
+    color: #9aa5b1;
+    font-size: 15px;
+    font-weight: 400;
+    font-family: "Roboto";
+    padding-left: 20px;
+    text-align: justify;
+    padding-right: 20px;
+}
+
+.projectp1 {
+    color: #9aa5b1;
+    font-size: 20px;
+    font-weight: 400;
+    font-family: "Roboto";
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+.projecth1 {
+    color: #ffffff;
+    font-size: 25px;
+    font-weight: 400;
+    font-family: "Roboto";
+    padding-left: 20px;
+}
+
+.projecth2 {
+    color: #ffffff;
+    font-size: 15px;
+    font-weight: 400;
+    font-family: "Roboto";
+    padding-left: 20px;
+    text-align: justify;
+    padding-right: 20px;
+    padding-top: 20px;
+}
+
+
+.spanelement {
+    color: #9aa5b1;
+}
+
+
+
+.Footercard {
+    background-color: #0d2436;
+}
+
+.Footerimage {
+    height: 100px;
+    width: 100px;
+    border-radius: 60px;
+}
+
+.Footerhead {
+    color: #cced00;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: "Roboto";
+    padding-left: 20px;
+    padding-bottom: 20px;
+}
+
+.Footerpara {
+    color: #9aa5b1;
+    font-size: 20px;
+    font-weight: 200;
+    font-family: "Roboto";
+    padding-left: 20px;
+
+}
+
+.Footerp1 {
+    color: #1361b4;
+    font-size: 20px;
+    font-weight: 200;
+    font-family: "Roboto";
+    padding-left: 20px;
+}
+
+.Footerh1 {
+    color: #cced00;
+    font-size: 27px;
+    font-weight: bold;
+    font-family: "Roboto";
+
+}
+
+.Footericon {
+    color: #5a7184;
+    font-size: 25px;
+}
+
+.Footercard1 {
+    background-color: #001c32;
+}
+
+.Footerp2 {
+    color: #9aa5b1;
+    font-size: 20px;
+    font-weight: 200;
+    font-family: "Roboto";
+
+}
+
+.Footerpara11 {
+    color: #9aa5b1;
+    font-size: 15px;
+    font-weight: 200;
+    font-family: "Roboto";
+    padding-left: 20px;
+
+}
+
+
+.in {
+    color: #5a7184;
+    font-size: 18px;
+}
+
+
+
+.onn {
+    background-color: #152c3e;
+    border-radius: 40px;
+    height: 40px;
+    width: 40px;
+    padding-bottom: 30px;
+    padding-left: 15px;
+    padding-top: 15px;
+    padding-right: 30px;
+}
+
+.rama {
+    color: #9aa5b1;
+    font-size: 20px;
+    font-weight: 400;
+    font-family: "Roboto";
+    padding-bottom: 20px;
+}
